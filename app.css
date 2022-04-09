@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to bottom right,rgb(30, 100, 100), rgb(213, 129, 212));
+    background-attachment: fixed;
+  }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+hr {
+    border-color: gray;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    padding: 5px 10px;
+}
+
+
+button {
+    background-color: black;
+    color: gold;
+    padding: 5px 10px;
+}
+
+img {
+    width: 30%;
+    padding: 30px 10px;
+  }
